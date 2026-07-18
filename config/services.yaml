@@ -1,0 +1,9 @@
+services:
+  - name: Google
+    url: https://google.com
+    expected_status: 200
+
+  - name: Protected API
+    url: https://example.com/api/health
+    expected_status: 200
+    use_token: true
