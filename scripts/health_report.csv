@@ -1,3 +1,0 @@
-timestamp,name,url,status,response_time,healthy,error
-2026-07-18T14:06:02.236867,Google,https://google.com,200,0.95,True,
-2026-07-18T14:06:06.983252,Protected API,https://example.com/api/health,404,0.25,False,
